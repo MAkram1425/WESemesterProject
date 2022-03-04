@@ -1,1 +1,2 @@
 # WESemesterProject
+Instructions
