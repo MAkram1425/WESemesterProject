@@ -1,0 +1,20 @@
+.main{
+    margin-top: 0px;
+}
+.main h1{
+    color: rgb(67, 67, 223);
+    font-size: 40px;
+}
+.main .list-buttons{
+    margin-left: 30px;
+}
+.main #nf-header{
+    background-color: white;
+    color: black;
+    box-shadow: none;
+}
+.main .avi {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
