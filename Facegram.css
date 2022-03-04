@@ -1,0 +1,14 @@
+.main{
+    margin-top: 100px;
+}
+.main h1{
+    color: rgb(67, 67, 223);
+    font-size: 60px;
+}
+.main h3{
+    font-weight: 500;
+
+}
+Link{
+    text-decoration: none;
+}
